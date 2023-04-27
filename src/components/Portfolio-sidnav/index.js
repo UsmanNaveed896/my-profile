@@ -22,7 +22,7 @@ export default()=>{
                     <li ><i className="lnr lnr-home"></i><a href="/">HOME</a></li>
                     <li><i className="lnr lnr-user"></i><a href="/aboutme">ABOUT ME</a></li>
                     <li><i className="lnr lnr-license"></i><a href="/resume">RESUME</a></li>
-                    <li><i className="lnr lnr-briefcase"></i><a href="/portfolio">PORTFOLIO</a></li>
+                    <li><i className="lnr lnr-briefcase"></i><a href="/portfolio">My Projects</a></li>
                     <li><i className="lnr lnr-envelope"></i>CONTACT</li>
                 </ul>
             </div>

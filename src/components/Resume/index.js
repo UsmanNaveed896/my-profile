@@ -29,21 +29,23 @@ export default () => {
                   <ul>
                     <li>
                       <span className="line-left  clr-blue"></span>
-                      <span className="to clr-white">12/2018</span>
-                      <span className="from clr-white">08/2018</span>
+                      <span className="to clr-white">present</span>
+                      <span className="from clr-white">06/2022</span>
                     </li>
                   </ul>
                 </div>
                 </div>
                 <div className="first-experience clr-white ">
-                  <h4>Internee</h4>
+                  <h4>Frontend Developer (React JS)</h4>
                   <h5 className="clr-blue">
-                    National Radio Telecommunication Corporation (NRTC)
+                  Technolean
                   </h5>
                   <h4>Achievements/Tasks</h4>
-                  <p>1. Auto Positioning System</p>
-                  <p>2. Raspberry pi and Stepper Motor</p>
-                  <p>3. Arduino and Amplifiers</p>
+                  <p>1. Command over HTML,CSS and JavaScript (ES6) language</p>
+                  <p>2. Deployment and testing of APIs</p>
+                  <p>3. Over 1 year experience in debugging and performance in React JS developing environment.</p>
+                  <p>4. Development of UIs and apps in React JS developing environment</p>
+                  <p>5. Responsive design with Bootstrap and Tailwind.</p>
                 </div>
               </div>
               {/* second expereince */}
@@ -74,13 +76,49 @@ export default () => {
                 </div>
                 <div className="first-experience clr-white">
                   <h4>Frontend Web Developer</h4>
-                  <h5 className="clr-blue">Geeks Hub</h5>
+                  <h5 className="clr-blue">The Designers</h5>
                   <h4>Achievements/Tasks</h4>
                   <p>1. Java Script/ES6/TypeScript</p>
                   <p>2. Npm And Webpack</p>
                   <p>3. React js</p>
                   <p>4. Next js</p>
                   <p>5. Bootstrap</p>
+                </div>
+              </div>
+              {/* Third expereince */}
+              <div className="line-experience col-md-12 mt-5 ">
+                <div className="exp-two">
+                <div className="span-line">
+                  <ul>
+                    <li>
+                      <span
+                        className="line-left  clr-blue"
+                        style={{ height: "88%", top: "21px", left: "-23px" }}
+                      ></span>
+                      <span
+                        className="to clr-white"
+                        style={{ top: "5px", left: "-95px" }}
+                      >
+                        12/2018
+                      </span>
+                      <span
+                        className="from clr-white"
+                        style={{ top: "284px", left: "-94px" }}
+                      >
+                        08/2018
+                      </span>
+                    </li>
+                  </ul>
+                </div>
+                </div>
+                <div className="first-experience clr-white">
+                  <h4>Internee</h4>
+                  <h5 className="clr-blue">National Radio and Telecommunication Corporation</h5>
+                  <h4>Achievements/Tasks</h4>
+                  <p>1. Auto Positioning System</p>
+                  <p>2. Raspberry pi and Stepper Motor</p>
+                  <p>3. Arduino and Amplifiers</p>
+                  <p>4. Python and c++</p>
                 </div>
               </div>
             </div>
@@ -250,17 +288,17 @@ export default () => {
               </div>
               <div className="engineering-skills col-md-6">
                 <div className="eng-head d-flex justify-center">
-                  <div><h3 className="clr-white text-align f-fm border-bottom">ENGINEERING SKILLS</h3></div>
+                  <div><h3 className="clr-white text-align f-fm border-bottom">CODING SKILLS</h3></div>
                 </div>
                 <div class="bars">
-          <h3 className="clr-white mt-5">Basic Circuit Knowledge</h3>
+          <h3 className="clr-white mt-5">Tailwind</h3>
             <div class="progress-outer">
                 <div class="progress">
-                    <div class="progress-bar progress-bar-info progress-bar-striped active" style={{width:'80%', boxshadow:'-1px 10px 10px rgba(91, 192, 222, 0.7)'}}></div>
-                    <div class="progress-value">80%</div>
+                    <div class="progress-bar progress-bar-info progress-bar-striped active" style={{width:'90%', boxshadow:'-1px 10px 10px rgba(91, 192, 222, 0.7)'}}></div>
+                    <div class="progress-value">90%</div>
                 </div>
             </div>
-            <h3 className="clr-white mt-4">PCB Designing</h3>
+            <h3 className="clr-white mt-4">APIs Integration</h3>
             <div class="progress-outer">
                 <div class="progress">
                     <div class="progress-bar progress-bar-success progress-bar-striped active" style={{width:'90%', boxshadow:'-1px 10px 10px rgba(116, 195, 116,0.7)'}}></div>

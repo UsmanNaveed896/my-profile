@@ -26,13 +26,6 @@ export default () => {
               that will encourage my growth and development to be the most
               efficient and effective employee I can possibly be.
             </p>
-            <h3 className="mt-5">Electrical Electronics Engineer</h3>
-            <p>
-              To be able to work in a highly organized environment and
-              contribute my expertise and knowledge in electrical processes and
-              applications such as designing, testing, troubleshooting, and
-              modifying electrical equipments
-            </p>
           </div>
           <div className="col-md-5 my-info">
             <h3>Personal Information</h3>
@@ -70,8 +63,7 @@ export default () => {
               <i className="lnr lnr-laptop font-40 clr-blue"></i>
               <h4 className="clr-white mt-2">Web Development</h4>
               <p className="clr-white">
-                Amet aspernatur delectus maxime ducimus similique Ratione
-                asperiores corporis provident aut libero.
+              IT involves creating visually appealing and user-friendly websites that are tailored to meet the specific needs of clients.
               </p>
             </div>
 
@@ -79,8 +71,7 @@ export default () => {
               <i className="lnr lnr-eye font-40 clr-blue"></i>
               <h4 className="clr-white mt-2">Web Design</h4>
               <p className="clr-white">
-                Amet aspernatur delectus maxime ducimus similique Ratione
-                asperiores corporis provident aut libero.
+              Changing any FIGMA or PSD to HTML and CSS through professional techniques. 
               </p>
             </div>
 
@@ -88,19 +79,11 @@ export default () => {
               <i className="lnr lnr-laptop-phone font-40 clr-blue"></i>
               <h4 className="clr-white mt-2">Responsive Design</h4>
               <p className="clr-white">
-                Amet aspernatur delectus maxime ducimus similique Ratione
-                asperiores corporis provident aut libero.
+                Pixel Perfect Responsive Designs
               </p>
             </div>
 
-            <div className="web-development text-align">
-              <i className="lnr lnr-camera font-40 clr-blue"></i>
-              <h4 className="clr-white mt-2">PCB Designing</h4>
-              <p className="clr-white">
-                Amet aspernatur delectus maxime ducimus similique Ratione
-                asperiores corporis provident aut libero.
-              </p>
-            </div>
+            
           </div>
           <div className="my-skills">
             <div className="myskill-heading d-flex justify-center clr-white mt-5">

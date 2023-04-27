@@ -28,7 +28,7 @@ export default () => {
                 <span>I'm &nbsp;</span>
                 <span class="cd-words-wrapper">
                   <b class="is-visible"> Frontend Developer.</b>
-                  <b class="is-hidden">Electronics Engineer.</b>
+                  <b class="is-hidden">React JS Developer.</b>
                 </span>
               </h3>
               {/* <!-- type headline end --> */}

@@ -24,34 +24,31 @@ export default()=>{
                 <div className="my-projects row justify-cont-bet mt-5">
                     <div className="first-project">
                     <Tilt>
-                        <a href="https://youthful-heisenberg-a724bd.netlify.app/">
+                        <a href="https://easemover.com/">
         <div className="image-one">
         <img className="project-image" src={Img1}  style={{width:'300px' ,height:'300px'}} alt="as" />
         </div>
-        <h3 className=" clr-blue">Web Expert Project</h3>
-        <h4 className="clr-white">Not Responsive</h4>
+        <h3 className=" clr-blue">Ease Mover</h3>
         </a>
     </Tilt>
                     </div>
                     <div className="second-project">
                     <Tilt>
-                        <a href="https://california-pizza-1.vercel.app/">
+                        <a href="https://qlab-site.vercel.app/">
         <div className="image-two">
         <img  className="project-image" src={Img2}  style={{width:'300px' ,height:'300px'}} alt="as" />
         </div>
-        <h3 className=" clr-blue">California Pizza Project</h3>
-        <h4 className="clr-white">Responsive</h4>
+        <h3 className=" clr-blue">Q Lab (Company Website)</h3>
         </a>
     </Tilt>
                     </div>
                     <div className="Third-project">
                     <Tilt>
-                        <a href="https://wizardly-poincare-74e526.netlify.app/">
+                        <a href="https://www.stemwizardsacademia.com/">
         <div className="image-three">
         <img  className="project-image" src={Img3}  style={{width:'300px' ,height:'300px'}} alt="as" />
         </div>
-        <h3 className=" clr-blue">Designers company Project</h3>
-        <h4 className="clr-white">Not Responsive</h4>
+        <h3 className=" clr-blue">Stem Wizards Academia</h3>
         </a>
     </Tilt>
                     </div>
